@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcorelib.a CMakeFiles/corelib.dir/Cube.cpp.o CMakeFiles/corelib.dir/Move.cpp.o
+/usr/bin/ranlib libcorelib.a

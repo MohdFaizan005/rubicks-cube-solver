@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/cmake_install.cmake",
+		"/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/cmake_install.cmake",
+		"/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/core/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

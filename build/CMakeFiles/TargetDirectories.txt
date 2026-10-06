@@ -1,0 +1,8 @@
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/CMakeFiles/edit_cache.dir
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/CMakeFiles/rebuild_cache.dir
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/CMakeFiles/RubiksCubeSolver.dir
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/CMakeFiles/edit_cache.dir
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/CMakeFiles/rebuild_cache.dir
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/core/CMakeFiles/corelib.dir
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/core/CMakeFiles/edit_cache.dir
+/Users/mohdfaizan/Desktop/Rubicks Cube solver/build/src/core/CMakeFiles/rebuild_cache.dir
